@@ -1,6 +1,8 @@
 MF1_SDK
 ==========
 
+clone and fork to my proj
+
 SDK for Sipeed MF1 AI module
 
 <a href="https://travis-ci.org/sipeed/MF1_SDK">
